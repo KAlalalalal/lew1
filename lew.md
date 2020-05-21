@@ -42,8 +42,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
    
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
    
-   
-   <h2 id="zagrozenie">3. Zagrożenie.</h2>
+      <h2 id="zagrozenie">3. Zagrożenie.</h2>
    
    Na ludzi polują zazwyczaj stare lub chore osobniki, które nie są w stanie upolować zwierząt będących ich naturalnym pokarmem. Ludzie broniący się przed drapieżnikiem zabijają go zarówno z konieczności, jak i profilaktycznie. 
  Kolejnym zagrożeniem dla lwów jest ich podatność na choroby przenoszone przez psy i inne ssaki drapieżne. Wirus Morbillivirus nazwany CDV (od ang. Canine Distemper Virus) spokrewniony z wirusem nosówki wywołał w 1994 epidemię w parku Serengeti. Lwy chorują również na gruźlicę i FIV (zespół nabytego niedoboru immunologicznego kotów, nazywany „AIDS kotów”). 
